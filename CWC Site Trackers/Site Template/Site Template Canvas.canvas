@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"ca7474f2ee55e361","type":"text","text":"# Leasing","x":-110,"y":-1280,"width":250,"height":88,"color":"3"},
+		{"id":"526e035e166fe9ba","type":"file","file":"Site Template/Site Template Notes.md","x":-1085,"y":-1280,"width":845,"height":1620},
+		{"id":"f4db051538d34414","x":-160,"y":-700,"width":250,"height":60,"color":"4","type":"text","text":"# Drawings"},
+		{"id":"e80ff448d69bd9dc","x":-160,"y":-640,"width":250,"height":60,"type":"text","text":""},
+		{"id":"09b2520272089baa","type":"text","text":"#### Lease Submittal Package\n- [ ] #task Payment direction Form\n- [ ] #task W9\n- [ ] #task EFT Form\n- [ ] #task SNDA\n- [ ] #task TRL\n- [ ] #task Title Cure\n- [ ] #task Title Report\n- [ ] #task Drawings\n- [ ] #task EOP Complete\n- [ ] #task EOP Complete Screenshot\n- [ ] #task Approved BTA\n- [ ] #task Approved BTA Screenshot\n","x":-110,"y":-1192,"width":345,"height":440}
+	],
+	"edges":[]
+}
