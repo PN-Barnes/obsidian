@@ -37,18 +37,18 @@
 #### Discussion Log
 
 #### Lease Submittal Package
-- [ ] #task Payment direction Form
-- [ ] #task W9
-- [ ] #task EFT Form
-- [ ] #task SNDA
-- [ ] #task TRL
-- [ ] #task Title Cure
-- [ ] #task Title Report
-- [ ] #task Drawings
-- [ ] #task EOP Complete
-- [ ] #task EOP Complete Screenshot
-- [ ] #task Approved BTA
-- [ ] #task Approved BTA Screenshot
+- [ ]  Payment direction Form
+- [ ]  W9
+- [ ]  EFT Form
+- [ ] SNDA
+- [ ] TRL
+- [ ] Title Cure
+- [ ]  Title Report
+- [ ]  Drawings
+- [ ] EOP Complete
+- [ ]  EOP Complete Screenshot
+- [ ]  Approved BTA
+- [ ] Approved BTA Screenshot
 
 
 # <u><strong>Drawings</strong></u>

@@ -4,20 +4,21 @@ kanban-plugin: board
 
 ---
 
-## 
+## TODO / START
 
 
 
-## 
+## In Progress
 
 
 
-## 
+## Awaiting Review
 
 
 
-## 
+## Complete
 
+**Complete**
 
 
 

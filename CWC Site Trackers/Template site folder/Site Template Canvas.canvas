@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c6708c10f0a85c25","type":"file","file":"obsidian/CWC Site Trackers/Template site folder/Site Template Notes.md","x":-1340,"y":-1278,"width":1100,"height":1336},
+		{"id":"ca7474f2ee55e361","type":"text","text":"# Leasing","x":-160,"y":-1278,"width":250,"height":88,"color":"3"},
+		{"id":"09b2520272089baa","type":"text","text":"#### Lease Submittal Package\n- [ ] Payment direction Form\n- [ ]  W9\n- [ ]  EFT Form\n- [ ]  SNDA\n- [ ]  TRL\n- [ ]  Title Cure\n- [ ]  Title Report\n- [ ]  Drawings\n- [ ]  EOP Complete\n- [ ]  EOP Complete Screenshot\n- [ ]  Approved BTA\n- [ ]  Approved BTA Screenshot\n","x":-110,"y":-1172,"width":370,"height":472},
+		{"id":"f0d242419a88b127","type":"file","file":"obsidian/CWC Site Trackers/Template site folder/Site Template Kanban.md","x":-1340,"y":-1720,"width":1700,"height":400},
+		{"id":"f4db051538d34414","type":"text","text":"# Drawings","x":-110,"y":-640,"width":165,"height":60,"color":"4"},
+		{"id":"e80ff448d69bd9dc","type":"text","text":"","x":220,"y":-580,"width":250,"height":60}
+	],
+	"edges":[]
+}
